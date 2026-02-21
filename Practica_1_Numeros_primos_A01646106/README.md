@@ -26,14 +26,20 @@ El módulo 'numPrim' recibe cuatro entradas (a, b, c, d) que representan un núm
 Se desarrolló un testbench para verificar el funcionamiento del módulo 'numPrim', aplicando cada uno de los casos posibles para las cuatro variables. 
 ## Cálculos 
 Para obtener la ecuación booleana del módulo 'numPrim' se creo una tabla de verdad, y con ella se utilizó un mapa de Karnaugh para obtener la ecuacion con maxTérminos más simplificada. 
+
+
 ![Captura de la tabla de verdad y Mapa de Karnaugh](imagenes/mapa.png)
 ## Diagrama RTL
 El siguiente diagrama muestra la implementación lógica generada por Quartus a partir del
 código Verilog del módulo.
+
+
 ![Diagrama RTL](imagenes/rtl_viewer.png)
 ## Waveform
 A continuación se observa la simulación temporal del circuito, donde se verifica el
 comportamiento correcto de la salida para los distintos valores de entrada.
+
+
 ![Simulación](imagenes/sim.png)
 ![Simulación waveform](imagenes/waveform.png)
 ## Tarjeta DEL10-lite funcionando
