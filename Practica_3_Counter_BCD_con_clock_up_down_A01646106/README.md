@@ -31,5 +31,7 @@ El siguiente diagrama muestra la implementación lógica generada por Quartus a 
 A continuación se observa la simulación temporal del circuito, donde se verifica el comportamiento correcto con diferentes argumentos de entrada. 
 
 ![Simulación](imagenes/sim.png)
+![Simulación 2](imagenes/sim2.png)
+![Simulación 3](imagenes/sim3.png)
 ![Simulación Waveform](imagenes/wave_form.png)
 ## Tarjeta DE10-lite funcionando:
