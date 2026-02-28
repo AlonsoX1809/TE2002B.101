@@ -35,3 +35,6 @@ A continuación se observa la simulación temporal del circuito, donde se verifi
 ![Simulación_2](imagenes/sim2.png)
 ![Simulacion Waveform](imagenes/wave_form.png)
 ## Tarjeta DEL10-lite funcionando:
+![Caso_0](imagenes/Caso_0.jpeg)
+![Caso_Random](imagenes/Caso_TB.jpeg)
+![Caso_final](imagenes/Ultimo_caso.jpeg)
