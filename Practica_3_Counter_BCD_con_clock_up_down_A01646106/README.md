@@ -17,6 +17,7 @@ Miguel Alonso De La Rosa Zamora A01646106
        - Entradas: 7 switches (SW[6:0]), 1 switch (SW[9:9]), 2 key (KEY[1:0])
        - Reloj: MAX10_CLK1_50
        - Salidas: 3 displays [6:0] (HEX0, HEX1, HEX2)
+
 Subir al repositorio donde se encuentran los archivos .v de los módulos, su testbench, y las imágenes necesarias para comprobar el óptimo funcionamiento del sistema. 
 
 ## Descripción de los módulos:
