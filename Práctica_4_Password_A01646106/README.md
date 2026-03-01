@@ -29,4 +29,9 @@ Se desarrolló un testbench para verificar el módulo 'password_fsm', escribiend
 El siguiente diagrama muestra la implementación lógica generada por Quartus a partir del código Verilog del módulo.
 
 ![Diagrama RTL](imagenes/RTL_viewer.png)
-## 
+## Waveform:
+A continuación se observa la simulación temporal del circuito, donde se verifica el comportamiento correcto con la contraseña como entrada. 
+
+![Simulación](imagenes/Sim.png)
+![Simulación Waveform](imagenes/Waveform.png)
+## Tarjeta DE10-lite funcionando:
