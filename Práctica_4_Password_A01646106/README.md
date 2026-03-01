@@ -35,3 +35,4 @@ A continuación se observa la simulación temporal del circuito, donde se verifi
 ![Simulación](imagenes/Sim.png)
 ![Simulación Waveform](imagenes/Waveform.png)
 ## Tarjeta DE10-lite funcionando:
+[Link de YouTube para observar el funcionamiento de la práctica 4](https://youtu.be/YVgUJwCelLI) 
