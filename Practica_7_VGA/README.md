@@ -34,9 +34,7 @@ El siguiente diagrama muestra la implementación lógica generada por Quartus a 
 
 ![Diagrama RTL](imagenes/RTL_viewer.png)
 
-## Resultado en pantalla
+## Tarjeta DE10-lite funcionando:
 A continuación se observa el resultado del sistema funcionando en la tarjeta DE10-Lite conectada a un monitor VGA.
 
 ![Resultado VGA](imagenes/VGA.jpeg)
-
-## Tarjeta DE10-lite funcionando:
