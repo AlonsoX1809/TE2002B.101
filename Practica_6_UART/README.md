@@ -46,7 +46,7 @@ Finalmente, se utiliza un módulo **BCD_module** para reflejar los datos transmi
 
 La arquitectura se muestra en el siguiente diagrama:
 
-![Diagrama](imagenes/diagrama)
+![Diagrama](imagenes/diagrama.png)
 
 ---
 
